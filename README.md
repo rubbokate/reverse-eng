@@ -49,3 +49,4 @@ https://rubbokate.github.io/reverse-eng/
 
 Google Doc:
 
+https://docs.google.com/document/d/1QNuQ_N8iimmWoM8409cgvtxKHCZ3T_PxD0ea1XhyiNU/edit?usp=sharing
